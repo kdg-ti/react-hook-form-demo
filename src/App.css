@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+pre {
+  text-align: left;
+  padding: 1rem;
+  border: 1px solid gray;
+}
+
+button[type="submit"] {
+  background-color: aliceblue;
+  color: #1a1a1a;
+}
+
+form {
+
+
+  button {
+    margin: .5rem;
+  }
+}
