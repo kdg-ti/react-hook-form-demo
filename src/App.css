@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+pre {
+  text-align: left;
+  padding: 1rem;
+  border: 1px solid gray;
+}
+
+button[type="submit"] {
+  background-color: #b7cde1;
+  color: #1a1a1a;
+}
+.address-group {
+  border: 1px solid gray;
+}
+form {
+
+  button {
+    margin: .5rem;
+  }
+}
