@@ -1,0 +1,21 @@
+.form-control {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: .2rem;
+
+  label {
+    width: 10rem;
+    text-align: left;
+  }
+
+  .error-message {
+    flex-grow: 1;
+    font-size: 0.8rem;
+    color: #fa6969;
+    width: 100%;
+    text-align: center;
+  }
+}
